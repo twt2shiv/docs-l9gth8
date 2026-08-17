@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-ocgnma.indocuan-pro.cfd/sitemap.xml
